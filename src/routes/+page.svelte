@@ -1,9 +1,17 @@
 <script>
+    
     import TodoItem from "../lib/todo-item.svelte";
 
     const title = "Todo";
 
 </script>
+
+<style>
+    form {
+        
+    }
+</style>
+
 
 <svelte:head>
     <title>{title}</title>
